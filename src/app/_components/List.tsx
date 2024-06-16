@@ -1,6 +1,6 @@
 "use client"
 
-import {usePathname, useRouter, useSearchParams} from "next/navigation";
+import {usePathname, useRouter} from "next/navigation";
 import clsx from "clsx";
 
 export type ItemsType = {
