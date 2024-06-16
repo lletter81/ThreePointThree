@@ -1,4 +1,5 @@
 # 삼쩜삼 포트폴리오
+## 기획 기간: 6.14 ~ 6.16, 개발 기간: 6.16
 ## git-hub: https://github.com/lletter81/ThreePointThree
 ## domain: https://three-point-three.vercel.app/
 ![포트폴리오_2](./src/assets/img/img-2.jpg)
